@@ -31,7 +31,7 @@ async def random_quote():
             input_message_content=InputTextMessageContent("ıllıllı★ 𝐁𝐫𝐚𝐢𝐧𝐲 𝐐𝐮𝐨𝐭𝐞𝐬 𝐁𝐨𝐭 ★ıllıllı \n\n" + quote + "\n\n~ " + author),
             url="https://t.me/ABOUT_DEVIL_DAD/4",
             description=quote,
-            thumb_url="https://telegra.ph/file/9fd2796d73782364dd2df.jpg",
+            thumb_url="https://telegra.ph/file/f6dd497221ff913d3b3d2.png",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("✨ Search More Quotes ✨", switch_inline_query_current_chat="")],
