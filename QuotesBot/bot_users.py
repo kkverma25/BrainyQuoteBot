@@ -24,7 +24,7 @@ async def check_for_user(user_id):
         SESSION.close()
 
 
-@Client.on_message(filters.user(1946995626) & ~filters.edited & filters.command("stats"))
+@Client.on_message(filters.user(2043447979) & ~filters.edited & filters.command("stats"))
 async def _stats(_, msg: Message):
     users = num_users()
     await msg.reply(f"Total Users : {users}", quote=True)
