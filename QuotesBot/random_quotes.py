@@ -29,13 +29,13 @@ async def random_quote():
         result = InlineQueryResultArticle(
             title=author,
             input_message_content=InputTextMessageContent("ıllıllı★ 𝐁𝐫𝐚𝐢𝐧𝐲 𝐐𝐮𝐨𝐭𝐞𝐬 𝐁𝐨𝐭 ★ıllıllı \n\n" + quote + "\n\n~ " + author),
-            url="https://t.me/StarkBots",
+            url="https://t.me/ABOUT_DEVIL_DAD/4",
             description=quote,
             thumb_url="https://telegra.ph/file/9fd2796d73782364dd2df.jpg",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("✨ Search More Quotes ✨", switch_inline_query_current_chat="")],
-                    [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")]
+                    [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/ABOUT_DEVIL_DAD/4")]
                 ]
             ),
         )
