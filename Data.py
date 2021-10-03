@@ -52,7 +52,7 @@ Example : `@BrainQuoteROBOT #random`
 By default, when you will use 1st option, you will get 20-30 quotes. But if you want only 1 random quote of that topic, use `#1` in end.
 Example : `@BrainQuoteROBOT Sushant Singh Rajput #1`
 
-More features in development. Keep track by joining @StarkBots.
+More features in development. Keep track by joining @ABOUT_DEVIL_DAD .
     """
 
     # About Message
