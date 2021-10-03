@@ -1,7 +1,7 @@
 {
   "name": "Brainy Quote Bot",
   "description": "Telegram bot to search quotes",
-  "logo": "https://telegra.ph/file/b32db5d2dae67c585cb8c.jpg",
+  "logo": "https://telegra.ph/file/f6dd497221ff913d3b3d2.png",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/BrainyQuoteBot",
+  "repository": "https://github.com/kkverma25/BrainyQuoteBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
